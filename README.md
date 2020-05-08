@@ -1,4 +1,4 @@
-# How to setup Primary/Secondary MySQL Replication for MySQL 5.7
+# Primary/Secondary MySQL Replication for MySQL 5.7
 
 
 ## Setup
